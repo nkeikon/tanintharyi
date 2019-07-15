@@ -1,4 +1,4 @@
-## Extent of unplanted areas in oil palm concessions and the dominance of rubber plantations in Southern Myanmar
+## Oil palm concessions in southern Myanmar consist mostly of unconverted forest
 Nomura et al., 2019
 
 1. image processing
