@@ -1,8 +1,8 @@
 /**** Start of imports. If edited, may not auto-convert in the playground. ****/
-var tni = ee.FeatureCollection("users/nkeikon/nature/TNI");
+var tni = ee.FeatureCollection("users/nkeikon/myanmar_sr/TNI");
 /***** End of imports. If edited, may not auto-convert in the playground. *****/
-/* Nomura et al., 
-extent of unconverted forests in oil palm concessions in Myanmar. 2019.
+/* Nomura et al. 2019, 
+'Oil palm concessions in southern Myanmar consist mostly of unconverted forest'
 Corresponding author: keiko.nomura@ed.ac.uk
 */
 
