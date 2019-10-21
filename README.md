@@ -10,7 +10,8 @@ The final map is available to download at: https://datashare.is.ed.ac.uk/handle/
 # Abstract
 The increased demand for palm oil has led to an expansion of oil palm concessions in the tropics, and the clearing of abundant forest as a result. However, concessions are typically incompletely planted to varying degrees, leaving much land unused. The remaining forests within such concessions are at high risk of deforestation, as there are normally no legal hurdles to their clearance, therefore making them excellent targets for conservation. We investigated the location of oil palm plantations and the other major crop – rubber plantations in southern Myanmar, and compared them to concession boundaries. Our results show that rubber plantations cover much larger areas than oil palm in the region, indicating that rubber is the region’s preferred crop. Furthermore, only 15% of the total concession area is currently planted with oil palm (49,000 ha), while 25,000 ha is planted outside concession boundaries. While this may in part be due to uncertain and/or changing boundaries, this leaves most of the concession area available for other land uses, including forest conservation and communities’ livelihood needs. Reconsidering the remaining concession areas can also significantly reduce future emission risks from the region.
 
-## Update (based on PhD defense)
+**Update (based on PhD defence)**
+
 The method to split reference data into training and testing data or use a subset of training data for cross-validation ("holdout" or "Out of the Box Testing") is a common approach in supervised classification using machine learning algorithms (Foody, 2017; Fardanesh and Ersoy, 1998; Prechelt, 1998; Huynh and Setiono, 2005). We therefore took such an approach in our study, randomly assigning pixels within our dataset to ’test’ or ’training’ datasets.
 
 However, depending on how training and testing are sampled, there is a risk of auto-correlation and thus over-estimation of the true map accuracy (Foody, 2017; Millard and Richardson, 2015; Twomey and Smith, 1998). Our approach, randomly selecting pixels from within the same polygons and assigning them to test or training sets, is prone to this criticism. Furthermore, our active selection of training and test datasets only from areas where from field knowledge and the presence of high resolution remote sensing data we had high confidence in that particular land cover, also has a tendency to inflate accuracy. These problems have been faced by other studies mapping land cover, who have used similar methods as ours (e.g. Draper et al., 2014; Yu et al., 2016; Cheng et al., 2016; Margono et al., 2014; Immitzer, Vuolo, and Atzberger, 2016). We chose to do this however because alternative approaches had significant issues:
@@ -21,7 +22,7 @@ However, depending on how training and testing are sampled, there is a risk of a
 
 We followed guidance from Olofsson et al. (2014) on calculating area-based uncertainty.
 
-## References
+*References*
 - Foody, Giles M. (2017). “Impacts of Sample Design for Validation Data on
 the Accuracy of Feedforward Neural Network Classification”. en. In: Applied
 Sciences 7.9, p. 888. doi: 10.3390/app7090888. url: https://www.mdpi.
