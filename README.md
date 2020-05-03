@@ -5,7 +5,7 @@ Nomura, K., Mitchard, E.T., Patenaude, G., Bastide, J., Oswald, P. and Nwe, T., 
 2. classification
 3. area estimate
 
-The final map is available to download at: https://datashare.is.ed.ac.uk/handle/10283/3377
+The map is available in geotiff format: https://datashare.is.ed.ac.uk/handle/10283/3377; or as an interactive map: https://nkeikon.users.earthengine.app/view/tanintharyi-oil-palm-and-rubber-map
 
 # Abstract
 The increased demand for palm oil has led to an expansion of oil palm concessions in the tropics, and the clearing of abundant forest as a result. However, concessions are typically incompletely planted to varying degrees, leaving much land unused. The remaining forests within such concessions are at high risk of deforestation, as there are normally no legal hurdles to their clearance, therefore making them excellent targets for conservation. We investigated the location of oil palm plantations and the other major crop – rubber plantations in southern Myanmar, and compared them to concession boundaries. Our results show that rubber plantations cover much larger areas than oil palm in the region, indicating that rubber is the region’s preferred crop. Furthermore, only 15% of the total concession area is currently planted with oil palm (49,000 ha), while 25,000 ha is planted outside concession boundaries. While this may in part be due to uncertain and/or changing boundaries, this leaves most of the concession area available for other land uses, including forest conservation and communities’ livelihood needs. Reconsidering the remaining concession areas can also significantly reduce future emission risks from the region.
